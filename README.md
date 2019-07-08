@@ -1,4 +1,3 @@
 # AR_Combat
 Owners:
-Virendra Pratap Singh
-Akshay Makkar
+Virendra Pratap Singh and Akshay Makkar
